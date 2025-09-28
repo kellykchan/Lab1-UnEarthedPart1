@@ -1,5 +1,3 @@
-# Lab1-UnEarthedPart1
-Week 1 Lab: UnEarthed, Part 1
 # Web Development Lab 1 - *UnEarthed Part1*
 
 Submitted by: **Kelly Chan**
